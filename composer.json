@@ -61,6 +61,6 @@
     },
     "autoload": {
         "psr-0": { "BeSimple\\": "src/" }
-    },
+    }
 
 }
