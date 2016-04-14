@@ -52,6 +52,7 @@
         "besimple/soap-common": "dev-master",
         "besimple/soap-server": "dev-master",
         "besimple/soap-wsdl":   "dev-master"
+
     },
     "require-dev": {
         "ext-mcrypt": "*",
