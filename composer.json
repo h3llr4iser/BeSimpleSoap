@@ -52,11 +52,11 @@
         "zendframework/zend-mime": "2.1.*"
     },
     "replace": {
-        "besimple/soap-bundle": "self.version",
-        "besimple/soap-client": "self.version",
-        "besimple/soap-common": "self.version",
-        "besimple/soap-server": "self.version",
-        "besimple/soap-wsdl":   "self.version"
+        "besimple/soap-bundle": "0.3.1@dev",
+        "besimple/soap-client": "0.3.1@dev",
+        "besimple/soap-common": "0.3.1@dev",
+        "besimple/soap-server": "0.3.1@dev",
+        "besimple/soap-wsdl":   "0.3.1@dev"
     },
     "require-dev": {
         "ext-mcrypt": "*",
