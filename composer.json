@@ -19,6 +19,16 @@
             "email": "mail@andreass.net"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:h3llr4iser/BeSimpleSoapBundle.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:h3llr4iser/BeSimpleSoapCommon.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "ext-soap": "*",
