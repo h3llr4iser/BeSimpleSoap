@@ -62,9 +62,5 @@
     "autoload": {
         "psr-0": { "BeSimple\\": "src/" }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.3-dev"
-        }
-    }
+
 }
